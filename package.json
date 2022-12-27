@@ -1,5 +1,5 @@
 {
-  "name": "my-naira-wallet",
+  "name": "my-naira-wallet-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
